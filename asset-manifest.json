@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/adashe/static/css/main.8a5417a6.css",
+    "main.js": "/adashe/static/js/main.b539c283.js",
+    "index.html": "/adashe/index.html",
+    "main.8a5417a6.css.map": "/adashe/static/css/main.8a5417a6.css.map",
+    "main.b539c283.js.map": "/adashe/static/js/main.b539c283.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8a5417a6.css",
+    "static/js/main.b539c283.js"
+  ]
+}
